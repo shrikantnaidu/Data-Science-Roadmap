@@ -1,7 +1,7 @@
 # Data Science Roadmap
 
 <p align="center"> 
-<img src=![](https://user-images.githubusercontent.com/48250679/79585830-fab51f80-80ed-11ea-84ba-bacd0f065c56.jpg)>
+<img src="image/images.jpg" height = 200)>
 </p>
 
 My roadmap to study Data Science.
