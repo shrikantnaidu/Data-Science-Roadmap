@@ -29,5 +29,5 @@ My roadmap to study Data Science.
 ### DevOps Courses
 | Title | Credential |
 | :---: | --- | 
-| DevOps for Data Scientists | [LinkedIn]() |
-| Docker for Data Scientists | [LinkedIn]() |
+| DevOps for Data Scientists | [LinkedIn](https://github.com/shrikantnaidu/Data-Science-Roadmap/blob/master/Certificates/LinkedIn%20Learning/CertificateOfCompletion_Devops%20For%20Data%20Scientists.pdf) |
+| Docker for Data Scientists | [LinkedIn](https://github.com/shrikantnaidu/Data-Science-Roadmap/blob/master/Certificates/LinkedIn%20Learning/CertificateOfCompletion_Docker%20For%20Data%20Scientists.pdf) |
