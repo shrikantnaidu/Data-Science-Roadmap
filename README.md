@@ -31,3 +31,9 @@ My roadmap to study Data Science.
 | :---: | --- | 
 | DevOps for Data Scientists | [LinkedIn](https://github.com/shrikantnaidu/Data-Science-Roadmap/blob/master/Certificates/LinkedIn%20Learning/CertificateOfCompletion_Devops%20For%20Data%20Scientists.pdf) |
 | Docker for Data Scientists | [LinkedIn](https://github.com/shrikantnaidu/Data-Science-Roadmap/blob/master/Certificates/LinkedIn%20Learning/CertificateOfCompletion_Docker%20For%20Data%20Scientists.pdf) |
+
+### Analytics Courses
+| Title | Credential |
+| :---: | --- | 
+| Google Analytics for Beginners | [Google](https://analytics.google.com/analytics/academy/certificate/rzJmdu7ZTtuhKmVVlkIu4Q) |
+| Advanced Google Analytics | [Google](https://analytics.google.com/analytics/academy/certificate/bMYlNMT4Tb2H8GZZNNevjg) |
