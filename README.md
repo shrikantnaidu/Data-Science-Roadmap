@@ -31,6 +31,12 @@ My roadmap to study Data Science.
 | Deep Learning | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/deep-learning) |
 | Introduction to Deep Learning with Keras | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/4d5620f08ebd82acbbf1ac363161d49c87ba856d) |
 
+### SQL Courses
+| Title | Credential |
+| :---: | --- | 
+| Introduction to SQL | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/intro-to-sql) |
+| Advance SQL | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/advanced-sql) |
+
 ### DevOps Courses
 | Title | Credential |
 | :---: | --- | 
