@@ -22,7 +22,6 @@ My roadmap to study Data Science.
 ### Machine learning and Deep Learning Courses
 | Title | Credential |
 | :---: | --- | 
-
 | Introduction to Machine Learning | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/intro-to-machine-learning) |
 | Intermediate Machine Learning | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/intermediate-machine-learning) |
 | Feature Engineering | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/feature-engineering) |
