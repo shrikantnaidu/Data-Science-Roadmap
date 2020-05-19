@@ -6,12 +6,9 @@
 
 My roadmap to study Data Science.
 
-## Programming
-### Python
+
 #### Courses
-| URL | Title | Status |
-| :---: | --- | :---: |
-| [DataCamp](https://www.datacamp.com/tracks/python-programmer) | Python Programmer | **Completed** |
-| [DataCamp](https://www.datacamp.com/tracks/data-analyst-with-python) | Data Analyst with Python | **Completed** |
-| [Stepik](https://stepik.org/course/67) | Программирование на Python | **Completed** |
-| [Udemy](https://www.udemy.com/complete-python-bootcamp/) | Complete Python Bootcamp: Go from zero to hero in Python 3 | **Completed** |
+| Credential | Title | 
+| :---: | --- | 
+| [IBM](https://www.youracclaim.com/badges/cb131a9f-5c1e-42af-828c-2df4fa1637ad/linked_in_profile) | Python for Data Science | 
+| [IBM](https://www.youracclaim.com/badges/581e9040-23aa-49eb-ad48-742257e5e584/linked_in_profile) | Data Science Foundations - Level 1 | 
