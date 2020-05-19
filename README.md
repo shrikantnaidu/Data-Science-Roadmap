@@ -22,8 +22,14 @@ My roadmap to study Data Science.
 ### Machine learning and Deep Learning Courses
 | Title | Credential |
 | :---: | --- | 
+
+| Introduction to Machine Learning | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/intro-to-machine-learning) |
+| Intermediate Machine Learning | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/intermediate-machine-learning) |
+| Feature Engineering | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/feature-engineering) |
+| Natural Language Processing | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/natural-language-processing) | 
 | Machine Learning with PySpark | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/7c0c2d634c5a61c40ef3e8f88f74636bbee9af4e) |
 | Deep Learning Fundamentals | [IBM](https://courses.cognitiveclass.ai/certificates/2106577eb2c748889b9034ee1d70312f) |
+| Deep Learning | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/deep-learning) |
 | Introduction to Deep Learning with Keras | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/4d5620f08ebd82acbbf1ac363161d49c87ba856d) |
 
 ### DevOps Courses
