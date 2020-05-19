@@ -13,7 +13,6 @@ My roadmap to study Data Science.
 | Data Science Foundations - Level 1 | [IBM](https://www.youracclaim.com/badges/581e9040-23aa-49eb-ad48-742257e5e584/linked_in_profile)  |
 | Data Science Foundations - Level 2  | [IBM](https://www.youracclaim.com/badges/63145b04-10e9-4024-9fc8-8c5b4ab2da5b/linked_in_profile) |
 | Applied Data Science with Python - Level 2 | [IBM](https://www.youracclaim.com/badges/e4052b79-8edc-4382-91a5-dc60e3fe563b/linked_in_profile) |
-| Applied Data Science with Python - Level 2 | [IBM]() |
 
 ### Data Science Certification
 | Title | Credential |
@@ -30,5 +29,5 @@ My roadmap to study Data Science.
 ### DevOps Courses
 | Title | Credential |
 | :---: | --- | 
-
-| Machine Learning with PySpark | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/7c0c2d634c5a61c40ef3e8f88f74636bbee9af4e) |
+| DevOps for Data Scientists | [LinkedIn]() |
+| Docker for Data Scientists | [LinkedIn]() |
