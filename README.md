@@ -30,6 +30,7 @@ My roadmap to study Data Science.
 | Deep Learning Fundamentals | [IBM](https://courses.cognitiveclass.ai/certificates/2106577eb2c748889b9034ee1d70312f) |
 | Deep Learning | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/deep-learning) |
 | Introduction to Deep Learning with Keras | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/4d5620f08ebd82acbbf1ac363161d49c87ba856d) |
+| Introduction to TensorFlow in Python | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/7800476b38442499b5a7f8228e8a6e2d4722359f) |
 
 ### SQL Courses
 | Title | Credential |
