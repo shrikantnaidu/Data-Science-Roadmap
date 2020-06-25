@@ -19,6 +19,13 @@ My roadmap to study Data Science.
 | :---: | --- | 
 | Data Science Masters Program | [GreyAtom](https://home.greyatom.com/settings/profile/certificate/4a5c66c4-0396-4c68-8c18-8eb61ffcc3f6)
 
+
+### Deep Learning Nanodegree
+| Title | Credential |
+| :---: | --- | 
+| Deep Learning Nanodegree | [Udacity](https://graduation.udacity.com/confirm/GPJ63YNV)
+
+
 ### Machine learning and Deep Learning Courses
 | Title | Credential |
 | :---: | --- | 
@@ -31,6 +38,7 @@ My roadmap to study Data Science.
 | Deep Learning | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/deep-learning) |
 | Introduction to Deep Learning with Keras | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/4d5620f08ebd82acbbf1ac363161d49c87ba856d) |
 | Introduction to TensorFlow in Python | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/7800476b38442499b5a7f8228e8a6e2d4722359f) |
+| AWS Machine Learning Foundation | [Udacity](https://github.com/shrikantnaidu/Data-Science-Roadmap/blob/master/Certificates/Udacity/Udacity_AWS_ML.pdf) |
 
 ### SQL Courses
 | Title | Credential |
