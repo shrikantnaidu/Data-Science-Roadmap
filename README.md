@@ -46,6 +46,11 @@ My roadmap to study Data Science.
 | Introduction to SQL | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/intro-to-sql) |
 | Advance SQL | [Kaggle](https://www.kaggle.com/learn/certification/shrikantnaidu/advanced-sql) |
 
+### NoSQL Courses
+| Title | Credential |
+| :---: | --- | 
+| MongoDB Basics| [MongoDB University](https://github.com/shrikantnaidu/Data-Science-Roadmap/blob/master/Certificates/MongoDB/M001%20-%20Proof%20of%20Completion.pdf) |
+
 ### DevOps Courses
 | Title | Credential |
 | :---: | --- | 
