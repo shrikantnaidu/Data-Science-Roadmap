@@ -50,7 +50,7 @@ My roadmap to study Data Science.
 ### NoSQL Courses
 | Title | Credential |
 | :---: | --- | 
-| MongoDB Basics| [MongoDB University](https://github.com/shrikantnaidu/Data-Science-Roadmap/blob/master/Certificates/MongoDB/M001%20-%20Proof%20of%20Completion.pdf) |
+| MongoDB Basics| [MongoDB University](http://university.mongodb.com/course_completion/1a649722-2bbe-4a12-9047-e8b9a3a1cffe) |
 
 ### DevOps Courses
 | Title | Credential |
