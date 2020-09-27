@@ -51,6 +51,7 @@ My roadmap to study Data Science.
 | Title | Credential |
 | :---: | --- | 
 | MongoDB Basics| [MongoDB University](http://university.mongodb.com/course_completion/1a649722-2bbe-4a12-9047-e8b9a3a1cffe) |
+| MongoDB for Python Developers | [MongoDB University](https://university.mongodb.com/course_completion/625c8004-7bb7-4f7c-a112-e830434636c5) |
 
 ### DevOps Courses
 | Title | Credential |
