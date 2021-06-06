@@ -64,3 +64,8 @@ My roadmap to study Data Science.
 | :---: | --- | 
 | Google Analytics for Beginners | [Google](https://analytics.google.com/analytics/academy/certificate/rzJmdu7ZTtuhKmVVlkIu4Q) |
 | Advanced Google Analytics | [Google](https://analytics.google.com/analytics/academy/certificate/bMYlNMT4Tb2H8GZZNNevjg) |
+
+### Project Management Courses
+| Title | Credential |
+| :---: | --- | 
+| Introduction to Project Management with ClickUp | [Coursera](https://coursera.org/share/824d20cd33bb9bfe14834c4af4d040d2) | 
