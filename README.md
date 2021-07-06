@@ -25,6 +25,11 @@ My roadmap to study Data Science.
 | :---: | --- | 
 | Deep Learning Nanodegree | [Udacity](https://graduation.udacity.com/confirm/GPJ63YNV)
 
+### Data Engineering Nanodegree
+| Title | Credential |
+| :---: | --- | 
+| Data Engineering Nanodegree | [Udacity](https://confirm.udacity.com/M6A3WUU5)
+
 
 ### Machine learning and Deep Learning Courses
 | Title | Credential |
