@@ -20,14 +20,10 @@ My roadmap to study Data Science.
 | Data Science Masters Program | [GreyAtom](https://home.greyatom.com/settings/profile/certificate/4a5c66c4-0396-4c68-8c18-8eb61ffcc3f6)
 
 
-### Deep Learning Nanodegree
+### Udacity Nanodegrees
 | Title | Credential |
 | :---: | --- | 
 | Deep Learning Nanodegree | [Udacity](https://graduation.udacity.com/confirm/GPJ63YNV)
-
-### Data Engineering Nanodegree
-| Title | Credential |
-| :---: | --- | 
 | Data Engineering Nanodegree | [Udacity](https://confirm.udacity.com/M6A3WUU5)
 
 
