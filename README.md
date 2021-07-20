@@ -40,7 +40,7 @@ My roadmap to study Data Science.
 | Introduction to Deep Learning with Keras | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/4d5620f08ebd82acbbf1ac363161d49c87ba856d) |
 | Introduction to TensorFlow in Python | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/7800476b38442499b5a7f8228e8a6e2d4722359f) |
 | AWS Machine Learning Foundation | [Udacity](https://github.com/shrikantnaidu/Data-Science-Roadmap/blob/master/Certificates/Udacity/Udacity_AWS_ML.pdf) |
-| Using TensorFlow with AWS SageMaker | [Coursera](https://github.com/shrikantnaidu/Data-Science-Roadmap/blob/master/Certificates/Coursera/Coursera-Using%20TensorFlow%20with%20Amazon%20Sagemaker.pdf) |
+| Using TensorFlow with AWS SageMaker | [Coursera](https://coursera.org/share/378fec600b92161dd3f2ffefab828519) |
 
 ### SQL Courses
 | Title | Credential |
