@@ -41,6 +41,7 @@ My roadmap to study Data Science.
 | Introduction to TensorFlow in Python | [DataCamp](https://www.datacamp.com/statement-of-accomplishment/course/7800476b38442499b5a7f8228e8a6e2d4722359f) |
 | AWS Machine Learning Foundation | [Udacity](https://github.com/shrikantnaidu/Data-Science-Roadmap/blob/master/Certificates/Udacity/Udacity_AWS_ML.pdf) |
 | Using TensorFlow with AWS SageMaker | [Coursera](https://coursera.org/share/378fec600b92161dd3f2ffefab828519) |
+| Transfer Learning for NLP with TensorFlow Hub | [Coursera](https://coursera.org/share/68bcda12450042a0a1fb1a81b0bbcd61) |
 
 ### SQL Courses
 | Title | Credential |
