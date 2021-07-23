@@ -42,6 +42,7 @@ My roadmap to study Data Science.
 | AWS Machine Learning Foundation | [Udacity](https://github.com/shrikantnaidu/Data-Science-Roadmap/blob/master/Certificates/Udacity/Udacity_AWS_ML.pdf) |
 | Using TensorFlow with AWS SageMaker | [Coursera](https://coursera.org/share/378fec600b92161dd3f2ffefab828519) |
 | Transfer Learning for NLP with TensorFlow Hub | [Coursera](https://coursera.org/share/68bcda12450042a0a1fb1a81b0bbcd61) |
+| Fine Tune BERT for Text Classification with TensorFlow | [Coursera](https://coursera.org/share/17f27b556454d83517c3c9186d152a25) |
 
 ### SQL Courses
 | Title | Credential |
