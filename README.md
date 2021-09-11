@@ -73,3 +73,4 @@ My roadmap to study Data Science.
 | Title | Credential |
 | :---: | --- | 
 | Introduction to Project Management with ClickUp | [Coursera](https://coursera.org/share/824d20cd33bb9bfe14834c4af4d040d2) | 
+| Business Analysis & Process Management | [Coursera](https://coursera.org/share/ccd15581aceed679bcb72adef40fa764) | 
