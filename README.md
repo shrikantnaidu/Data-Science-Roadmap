@@ -44,6 +44,7 @@ My roadmap to study Data Science.
 | Transfer Learning for NLP with TensorFlow Hub | [Coursera](https://coursera.org/share/68bcda12450042a0a1fb1a81b0bbcd61) |
 | Fine Tune BERT for Text Classification with TensorFlow | [Coursera](https://coursera.org/share/17f27b556454d83517c3c9186d152a25) |
 | Tweet Emotion Recognition with TensorFlow | [Coursera](https://coursera.org/share/992651de7ed3275588b81eefe4a0a286) |
+| Machine Learning Pipelines with Azure ML Studio | [Coursera](https://coursera.org/share/025e678e40a7eb105344038d7487e949) |
 
 ### SQL Courses
 | Title | Credential |
