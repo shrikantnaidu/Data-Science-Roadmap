@@ -46,6 +46,13 @@ My roadmap to study Data Science.
 | Tweet Emotion Recognition with TensorFlow | [Coursera](https://coursera.org/share/992651de7ed3275588b81eefe4a0a286) |
 | Machine Learning Pipelines with Azure ML Studio | [Coursera](https://coursera.org/share/025e678e40a7eb105344038d7487e949) |
 
+### MLOps and Generative AI Courses
+| Title | Credential |
+| :---: | --- | 
+| W&B 101 | [Weights & Biases](https://www.credential.net/5cea3768-3512-4bd5-b4fa-9afab5078bcb) |
+| W&B Effective MLOps - Model Development | [Weights & Biases](https://www.credential.net/c1cb6b53-9099-4e70-ba28-5670344cf728) | 
+| Train & Fine-Tune LLMs for Production | [Activeloop](https://learn.activeloop.ai/certificates/uk9gsxboqe) |
+
 ### SQL Courses
 | Title | Credential |
 | :---: | --- | 
