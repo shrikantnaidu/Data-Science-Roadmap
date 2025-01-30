@@ -52,6 +52,7 @@ My roadmap to study Data Science.
 | W&B 101 | [Weights & Biases](https://www.credential.net/5cea3768-3512-4bd5-b4fa-9afab5078bcb) |
 | W&B Effective MLOps - Model Development | [Weights & Biases](https://www.credential.net/c1cb6b53-9099-4e70-ba28-5670344cf728) | 
 | Train & Fine-Tune LLMs for Production | [Activeloop](https://learn.activeloop.ai/certificates/uk9gsxboqe) |
+| LangChain & Vector Databases in Production | [Activeloop](https://learn.activeloop.ai/certificates/ov6hztpilu) |
 
 ### SQL Courses
 | Title | Credential |
