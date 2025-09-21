@@ -54,6 +54,7 @@ My roadmap to study Data Science.
 | Train & Fine-Tune LLMs for Production | [Activeloop](https://learn.activeloop.ai/certificates/uk9gsxboqe) |
 | LangChain & Vector Databases in Production | [Activeloop](https://learn.activeloop.ai/certificates/ov6hztpilu) |
 | Retrieval Augmented Generation for Production with LangChain & LlamaIndex | [Activeloop](https://learn.activeloop.ai/certificates/xfafqkgcs5) |
+| Foundation: Introduction to LangGraph | [LangChain](https://academy.langchain.com/certificates/cjjnnyraa5) |
 
 ### SQL Courses
 | Title | Credential |
