@@ -55,6 +55,7 @@ My roadmap to study Data Science.
 | LangChain & Vector Databases in Production | [Activeloop](https://learn.activeloop.ai/certificates/ov6hztpilu) |
 | Retrieval Augmented Generation for Production with LangChain & LlamaIndex | [Activeloop](https://learn.activeloop.ai/certificates/xfafqkgcs5) |
 | Foundation: Introduction to LangGraph | [LangChain](https://academy.langchain.com/certificates/cjjnnyraa5) |
+| Ambient Agents with LangGraph | [LangChain](https://academy.langchain.com/certificates/u1wjnifnar) |
 
 ### SQL Courses
 | Title | Credential |
